@@ -6,7 +6,7 @@
 <h3 align="center">
   <table align="center">
     <tr>
-      <th scope="col">Mines Prediction App</th>
+      <th scope="col"> Download Mines Prediction App</th>
       <th scope="col">08/ 09 / 2025</th>
       <th scope="col"><a href='https://t.me/Minespredictorx'>Download</a></th>
     </tr>

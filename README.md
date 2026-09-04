@@ -14,7 +14,7 @@
 </h3>
 <h4 align="center">Available for Windows, iOS, and Android</h4>
 
-# Mins Prediction App
+# Mines Prediction App
 
 ## Overview
 The **Mines Prediction App** is a powerful tool designed to enhance your gaming experience by providing real-time predictions for the Mines game. Available for Windows, iOS, and Android, this app uses advanced algorithms to predict outcomes, helping you make more informed decisions during gameplay.
